@@ -24,15 +24,18 @@ C:/Users/User/Desktop/pollo/ICC3101-202010/proyecto-grupo-9-alainid/Proyecto/Pro
 C:/Users/User/Desktop/pollo/ICC3101-202010/proyecto-grupo-9-alainid/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.dll
 C:/Users/User/Desktop/pollo/ICC3101-202010/proyecto-grupo-9-alainid/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.pdb
 C:/Users/User/Desktop/pollo/ICC3101-202010/proyecto-grupo-9-alainid/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.genruntimeconfig.cache
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.deps.json
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.runtimeconfig.json
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.runtimeconfig.dev.json
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.dll
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.pdb
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.csprojAssemblyReference.cache
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.csproj.CoreCompileInputs.cache
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.AssemblyInfoInputs.cache
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.AssemblyInfo.cs
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.dll
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.pdb
-/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.genruntimeconfig.cache
+C:/Users/rvarg/Desktop/Proyecto POO/proyecto-grupo-9-alainid/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Interop.WMPLib.dll
+C:/Users/rvarg/Desktop/Proyecto POO/proyecto-grupo-9-alainid/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Interop.WMPLib.dll
+C:/Users/rvarg/Desktop/Proyecto POO/proyecto-grupo-9-alainid/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.csproj.ResolveComReference.cache
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.deps.json
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.runtimeconfig.json
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.runtimeconfig.dev.json
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.dll
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/bin/Debug/netcoreapp3.1/Proyecto.pdb
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.csprojAssemblyReference.cache
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.csproj.CoreCompileInputs.cache
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.AssemblyInfoInputs.cache
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.AssemblyInfo.cs
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.dll
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.pdb
+/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/obj/Debug/netcoreapp3.1/Proyecto.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/Proyecto.csproj",
+      "projectUniqueName": "/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/Proyecto.csproj",
+      "projectPath": "/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/Proyecto.csproj",
       "packagesPath": "/Users/cristianveralyon/.nuget/packages/",
-      "outputPath": "/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master 2/Proyecto/Proyecto/obj/",
+      "outputPath": "/Users/cristianveralyon/Downloads/proyecto-grupo-9-alainid-master/Proyecto/Proyecto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cristianveralyon/.config/NuGet/NuGet.Config"
